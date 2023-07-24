@@ -1,6 +1,6 @@
 ceva_2 -
 
 1. edit from master + edit from secondary
-2.
+2. edit from master 2nd try
 3.
 4.
