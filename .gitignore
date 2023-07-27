@@ -8,11 +8,15 @@ ignore_this_folder/*
 ignore_this_file_4.txt
 
 #excluzi - i.e. ignori
-/ignore_test/ignara-ma.txt
+/ignore_test/ignora-ma.txt
 #/ignore_test/
 
-#negi pattern - adica incluzi excluderea precendenta de mai sus
-!**/ignore_test/ignora*
+**/ignora-ma.txt
+
+#URMATOAREA NU MERGE DIN CAUZA FOLDERULUI
+# quirk (capriciu)  in Git, you can not negate a file that is ignored due to a pattern matching a directory
+#NU MERGE ASA DIN PACATE -> negi pattern - adica incluzi excluderea precendenta de mai sus
+#!**/ignore_test/ignora*
 
 
 #! => negates the pattern [make it avaliable again]
