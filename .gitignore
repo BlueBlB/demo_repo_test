@@ -12,7 +12,7 @@ ignore_this_file_4.txt
 #/ignore_test/
 
 #negi pattern - adica incluzi excluderea precendenta de mai sus
-#!**/ignore_test/ignora*
+!**/ignore_test/ignora*
 
 
 #! => negates the pattern [make it avaliable again]
