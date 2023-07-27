@@ -1,10 +1,14 @@
 # this is a comment
 
 #files to ignore
+
 ignore_this_file_1.txt
 test_dir/ignore_this_file_2.txt
 ignore_this_folder/*
 ignore_this_file_4.txt
+
+/ignore_test/ignora-ma.txt
+
 #! => negates the pattern [make it avaliable again]
 # \# and \! are normal characters
 # / is directory eparator
