@@ -8,8 +8,8 @@ ignore_this_folder/*
 ignore_this_file_4.txt
 
 #excluzi - i.e. ignori
-/ignore_test/ignora-ma.txt
-/ignore_test/
+/ignore_test/ignara-ma.txt
+#/ignore_test/
 
 #negi pattern - adica incluzi excluderea precendenta de mai sus
 #!**/ignore_test/ignora*
