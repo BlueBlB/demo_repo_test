@@ -11,7 +11,8 @@ ignore_this_file_4.txt
 /ignore_test/ignora-ma.txt
 #/ignore_test/
 
-ignora-ma.txt
+#NICI ASTA NU MERGE - Ma depaseste !
+#ignora-ma.txt
 
 #URMATOAREA NU MERGE DIN CAUZA FOLDERULUI
 # quirk (capriciu)  in Git, you can not negate a file that is ignored due to a pattern matching a directory
